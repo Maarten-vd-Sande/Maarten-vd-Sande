@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, I'm Maarten van der Sande 👋
 
 I am a PhD student **computational biology** at the RIMLS Nijmegen.  
 
