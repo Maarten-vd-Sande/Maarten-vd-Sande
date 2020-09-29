@@ -10,6 +10,7 @@ I am a PhD student **computational biology** at the RIMLS Nijmegen.
 <a href="https://orcid.org/0000-0001-7803-1526"><img height="30" src="https://raw.githubusercontent.com/Maarten-vd-Sande/Maarten-vd-Sande/master/imgs/orcid.png"></a>&nbsp;&nbsp;
 </p>
 
+<br/><br/>
 
 #### Software
 [![Star on GitHub](https://img.shields.io/github/stars/vanheeringen-lab/seq2science.svg?style=social)](https://github.com/vanheeringen-lab/seq2science/stargazers) [seq2science](https://github.com/vanheeringen-lab/seq2science): Automated preprocessing of Next-Generation Sequencing data.
