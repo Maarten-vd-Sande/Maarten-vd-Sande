@@ -16,3 +16,11 @@ I am a PhD student **computational biology** at the RIMLS Nijmegen.
 [![Star on GitHub](https://img.shields.io/github/stars/vanheeringen-lab/seq2science.svg?style=social)](https://github.com/vanheeringen-lab/seq2science/stargazers) [seq2science](https://github.com/vanheeringen-lab/seq2science): Automated preprocessing of Next-Generation Sequencing data.
 
 [![Star on GitHub](https://img.shields.io/github/stars/Maarten-vd-Sande/qnorm.svg?style=social)](https://github.com/Maarten-vd-Sande/qnorm/stargazers) [qnorm](https://github.com/Maarten-vd-Sande/qnorm): Fast (and correct!) quantile normalization in Python
+
+#### Gimmicky github stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maarten-vd-sande&count_private=true&show_icons=true&theme=vue&hide_title=True&hide_rank=true">
+
+</p>
